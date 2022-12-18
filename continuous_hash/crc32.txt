@@ -1,0 +1,17 @@
+data/00/00/00/00/00.bin	d9d5190a
+data/00/00/00/00/01.bin	8fc1df2b
+data/00/00/00/00/02.bin	2ea03148
+data/00/00/00/00/03.bin	7d1f68e7
+data/00/00/00/00/04.bin	d2cca2d7
+data/00/00/00/00/05.bin	4709817e
+data/00/00/00/00/06.bin	75380e62
+data/00/00/00/00/07.bin	7af8338f
+data/00/00/00/00/08.bin	3367ef29
+data/00/00/00/00/09.bin	6f95a951
+data/00/00/00/00/10.bin	ff303f04
+data/00/00/00/00/11.bin	da0a5e44
+data/00/00/00/00/12.bin	1c4a30ac
+data/00/00/00/00/13.bin	af26672b
+data/00/00/00/00/14.bin	053e24a6
+data/00/00/00/00/15.bin	dd6073a6
+data/00/00/00/00/16.bin	537e7ebe
